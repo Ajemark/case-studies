@@ -15,7 +15,7 @@
 | **Solvium** | [t.me/Solvium_bot](https://t.me/Solvium_bot) | Gaming |
 | **Nutraspices** | [nutraspices-nu.vercel.app](https://nutraspices-nu.vercel.app) | E-Commerce |
 | **Zend Pay** | [zendpay.xyz](https://zendpay.xyz) | Fintech |
-| **PortalPad** | [portalpad.fun](https://portalpad.fun) | Web3 |
+| **PortalPad** | ~~portalpad.fun~~ (down) | Web3 |
 | **Badger Games** | [badger-bot.vercel.app](https://badger-bot.vercel.app) | Gaming |
 | **Snipey App** | [snipey.vip](https://snipey.vip) | AI Trading |
 | **Lumey Energy** | [lumeyenergy.com](https://www.lumeyenergy.com) | E-Commerce |
@@ -59,6 +59,11 @@
 | 26 | **AeroDash** | 3D Dashboard | [aerodash.md](./aerodash.md) |
 | 27 | **Ascension Protocol** | Metaverse | [ascension-protocol.md](./ascension-protocol.md) |
 | 28 | **TowerSwap** | DeFi | [towerswap.md](./towerswap.md) |
+| 29 | **GDK Frontend** | DeFi | [gdk-frontend.md](./gdk-frontend.md) |
+| 30 | **Tychicus / ClawdBot** | AI + Web3 | [tychicus-clawdbot.md](./tychicus-clawdbot.md) |
+| 31 | **Social App** | Full-Stack | [social-app.md](./social-app.md) |
+| 32 | **Badger NFT Bot** | Web3 + AI | [badger-nft-bot.md](./badger-nft-bot.md) |
+| 33 | **KIM Gate Discord** | AI + Web3 | [kim-gate-discord.md](./kim-gate-discord.md) |
 
 ---
 
