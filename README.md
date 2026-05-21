@@ -66,6 +66,10 @@
 | 33 | **KIM Gate Discord** | AI + Web3 | [kim-gate-discord.md](./kim-gate-discord.md) |
 | 34 | **Birb Task** | Web3 | [birb-task.md](./birb-task.md) |
 | 35 | **Birb Minter** | Web3 / NFT | [birb-minter.md](./birb-minter.md) |
+| 36 | **AfroCarb** | Web2 / Climate | [afrocarb.md](./afrocarb.md) |
+| 37 | **GrokGert** | AI / Automation | [grokgert.md](./grokgert.md) |
+| 38 | **Smart Deployer** | Web3 / DeFi | [smart-deployer.md](./smart-deployer.md) |
+| 39 | **Tradify Business** | Web2 / Fintech | [tradify-business.md](./tradify-business.md) |
 
 ---
 
