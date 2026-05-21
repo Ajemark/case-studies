@@ -64,6 +64,8 @@
 | 31 | **Social App** | Full-Stack | [social-app.md](./social-app.md) |
 | 32 | **Badger NFT Bot** | Web3 + AI | [badger-nft-bot.md](./badger-nft-bot.md) |
 | 33 | **KIM Gate Discord** | AI + Web3 | [kim-gate-discord.md](./kim-gate-discord.md) |
+| 34 | **Birb Task** | Web3 | [birb-task.md](./birb-task.md) |
+| 35 | **Birb Minter** | Web3 / NFT | [birb-minter.md](./birb-minter.md) |
 
 ---
 
